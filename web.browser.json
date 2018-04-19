@@ -1,0 +1,52 @@
+{
+  "format": "isopack-2-unibuild",
+  "declaredExports": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "underscore",
+      "constraint": "1.0.0"
+    },
+    {
+      "package": "templating",
+      "constraint": "1.0.0"
+    },
+    {
+      "package": "blaze",
+      "constraint": "2.0.0"
+    },
+    {
+      "package": "aldeed:template-extension",
+      "constraint": "4.0.0"
+    },
+    {
+      "package": "aldeed:autoform",
+      "constraint": "6.0.0"
+    }
+  ],
+  "resources": [
+    {
+      "type": "source",
+      "extension": "html",
+      "file": "web.browser/autoform-select2.html",
+      "length": 406,
+      "offset": 0,
+      "path": "autoform-select2.html",
+      "hash": "0e62efb4bda2eced76c9f4f1d12399da68c66619",
+      "fileOptions": {}
+    },
+    {
+      "type": "source",
+      "extension": "js",
+      "file": "web.browser/autoform-select2.js",
+      "length": 5986,
+      "offset": 0,
+      "usesDefaultSourceProcessor": true,
+      "path": "autoform-select2.js",
+      "hash": "9895e2ae68d3b4e9406c092e4a7f7e6ab85b40c8",
+      "fileOptions": {}
+    }
+  ]
+}
